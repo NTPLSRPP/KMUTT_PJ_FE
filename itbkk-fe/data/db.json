@@ -1,0 +1,40 @@
+{
+  "Statuses": [
+    {
+      "Name": "No Status",
+      "Description": "No status has been set for the task."
+    },
+    {
+      "Name": "To Do",
+      "Description": "Task is scheduled to be done."
+    },
+    {
+      "Name": "Doing",
+      "Description": "Task is currently in progress."
+    },
+    {
+      "Name": "Done",
+      "Description": "Task has been completed."
+    }
+  ],
+  "Tasks": [
+    {
+      "taskTitle": "Update Website",
+      "taskDescription": "Update the homepage to include new customer testimonials.",
+      "taskAssignees": "Alice",
+      "taskStatus": 2
+    },
+    {
+      "taskTitle": "Fix Login Bug",
+      "taskDescription": "Resolve the issue where users cannot reset their passwords.",
+      "taskAssignees": "Bob",
+      "taskStatus": 3
+    },
+    {
+      "taskTitle": "Deploy Marketing Campaign",
+      "taskDescription": "Prepare and deploy the new marketing campaign by the end of the month.",
+      "taskAssignees": "Carol",
+      "taskStatus": 2
+    }
+  ]
+}
